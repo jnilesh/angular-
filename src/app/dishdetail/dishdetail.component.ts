@@ -8,7 +8,6 @@ import { Dish } from '../shared/dish';
 })
 export class DishdetailComponent implements OnInit {
 
-  
   constructor() { }
 
   @Input()
